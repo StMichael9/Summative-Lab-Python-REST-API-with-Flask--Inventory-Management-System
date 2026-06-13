@@ -1,5 +1,5 @@
 # "database" + helper functions
-inventory = [
+items = [
     {
         "id": 1,
         "name": "Organic Almond Milk",
